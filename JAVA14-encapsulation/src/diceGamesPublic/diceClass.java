@@ -1,4 +1,4 @@
-package diceGames;
+package diceGamesPublic;
 /*
  * This program is part of my learning Java series
  * This one looks at encapsulation & why you want 

@@ -1,4 +1,4 @@
-package diceGames;
+package diceGamesPublic;
 
 /*
  * Poor little Simba!  What have you done!
