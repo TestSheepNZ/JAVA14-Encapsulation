@@ -13,12 +13,12 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class testClass {
+public class TestClass {
 
 	@Test
 	public void thisWillSendYouNuts()
 	{
-		diceClass dice1 = new diceClass(20);
+		DiceClass dice1 = new DiceClass(20);
 		
 		dice1.rollDice();
 		

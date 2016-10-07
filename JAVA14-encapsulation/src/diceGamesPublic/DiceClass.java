@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class diceClass {
+public class DiceClass {
 
 	//Attributes
 	public int numSides;
@@ -26,13 +26,13 @@ public class diceClass {
 	
 	//Constructors
 	
-	public diceClass(int sides)
+	public DiceClass(int sides)
 	{
 		System.out.println("CONSTRUCTOR called with sides of " + sides);
 		this.numSides = sides;
 	}
 	
-	public diceClass()
+	public DiceClass()
 	{
 		this(6);
 	}
